@@ -16,7 +16,7 @@ Cuando mi vida me lo permite disfruto de salir con mi cámara y hacer fotos 📷
 
 Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras 😉. Ahora esta un poco vacío pero estoy en ello 🛠 👨‍🔧.
 
-<div align="center"><img src="img/pika.gif" width="10%" aling="center"></div>
+<div align="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"></div>
 
 ***
 
@@ -25,5 +25,5 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 <p align="center"> Si quieres que hablemos un rato podemos, aqui tienes mis redes: </p>
 
 <div align="center"><a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="5%" aling="center"></a>
-<a href="https://github.com/sergiosimonf"><img src="img/in.png" width="5%" aling="center"></a>
+<a href="https://www.linkedin.com/in/sergio-sim%C3%B3n-fern%C3%A1ndez-880605251/"><img src="img/in.png" width="5%" aling="center"></a>
 </div>
