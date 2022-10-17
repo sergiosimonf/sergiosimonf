@@ -23,9 +23,8 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 
 <h2 align="center"> 📫 Contacto </h2>
 
-<p align="center"> Si quieres que hablemos un rato podemos, aqu tienes mis redes: </p> 
+<p align="center"> Si quieres que hablemos un rato podemos, aqui tienes mis redes: </p>
 
 <div align="center"><a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="5%" aling="center"></a>
 <a href="https://github.com/sergiosimonf"><img src="img/in.png" width="5%" aling="center"></a>
 </div>
-
