@@ -32,10 +32,13 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 <h2 align="center"> 🛠 Tecnologías </h2>
 
 <div align="center">
-<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
-<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
-<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
-<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
+<img src="img/kotlin.png" width="9%" aling="center">
+<img src="img/git.png" width="9%" aling="center">
+<img src="img/java.png" width="10%" aling="center">
+<img src="img/kraken.png" width="10%" aling="center">
+<img src="img/html.png" width="10%" aling="center">
+<img src="img/css.png" width="7%" aling="center">
+<img src="img/vs.png" width="8%" aling="center">
 </div>
 
 <p>&nbsp</p>
