@@ -34,7 +34,6 @@ AquÃ­ encontraras mi repositorio personal echa un ojo y pilla lo que quieras ğŸ˜
 <div align="center">
 <img src="img/kotlin.png" width="9%" aling="center">
 <img src="img/git.png" width="9%" aling="center">
-<img src="img/java.png" width="10%" aling="center">
 <img src="img/kraken.png" width="10%" aling="center">
 <img src="img/html.png" width="10%" aling="center">
 <img src="img/css.png" width="7%" aling="center">
