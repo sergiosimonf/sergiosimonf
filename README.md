@@ -1,6 +1,6 @@
 # 👋 Hola, Soy Sergio Simón Fernández 📢
 
-<div align="center"><img src="img/fan-1.gif" alt="" align="center"></div>
+<div align="center"><img src="img/fan-1.gif" width="30%" align="center"></div>
 
 <div align="center"><img src="img/welcome-fire.gif" alt="" align="center"></div>
 
@@ -22,8 +22,8 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 
 <p align="center"> Si quieres que hablemos un rato podemos, aqui tienes mis redes: </p>
 
-<div align="center"><a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="5%" aling="center"></a>
-<a href="https://www.linkedin.com/in/sergio-sim%C3%B3n-fern%C3%A1ndez-880605251/"><img src="img/in.png" width="5%" aling="center"></a></div>
+<div align="center"><a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
+<a href="https://www.linkedin.com/in/sergio-sim%C3%B3n-fern%C3%A1ndez-880605251/"><img src="img/in.png" width="10%" aling="center"></a></div>
 
 <p>&nbsp</p>
 
@@ -32,10 +32,10 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 <h2 align="center"> 🛠 Tecnologías </h2>
 
 <div align="center">
-<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="5%" aling="center"></a>
-<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="5%" aling="center"></a>
-<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="5%" aling="center"></a>
-<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="5%" aling="center"></a>
+<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
+<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
+<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
+<a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
 </div>
 
 <p>&nbsp</p>
