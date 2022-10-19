@@ -38,6 +38,9 @@ AquÃ­ encontraras mi repositorio personal echa un ojo y pilla lo que quieras ðŸ˜
 <img src="img/html.png" width="10%" aling="center">
 <img src="img/css.png" width="7%" aling="center">
 <img src="img/vs.png" width="8%" aling="center">
+<img src="img/intellij-original.svg" width="9%" aling="center">
+<img src="img/markdown-original.png" width="9%" aling="center">
+<img src="img/tabnine.png" width="9%" aling="center">
 </div>
 
 <p>&nbsp</p>
@@ -49,4 +52,3 @@ AquÃ­ encontraras mi repositorio personal echa un ojo y pilla lo que quieras ðŸ˜
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/sergiosimonf/count.svg)</div>
-
