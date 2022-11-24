@@ -42,7 +42,11 @@ AquÃ­ encontraras mi repositorio personal echa un ojo y pilla lo que quieras ðŸ˜
 <img src="img/markdown-original.png" width="9%" aling="center">
 <img src="img/tabnine.png" width="9%" aling="center">
 </div>
-
+<div align="center">
+    <img src="img/xml.png" width="18%" aling="center">
+    <img src="img/json.png" width="8%" aling="center">
+    
+</div>
 <p>&nbsp</p>
 
 <div align="center"><img src="img/781781781781781781781781781781.gif" width="20%" align="center"></div>
