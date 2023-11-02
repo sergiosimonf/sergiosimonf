@@ -10,13 +10,13 @@
 
 <img src="img/octogato1.png" width="20%" align="right">
 
-Soy alumno del instituto **IES Luis Vives** estudiando Desarrollo de **Aplicaciones Multiplataforma** 👨‍🎓. Ademas soy **técnico de sistemas microinformáticos y redes**👨‍💻.
+Soy alumno del instituto **IES Gabriel García Márquez** estudiando Desarrollo de **Aplicaciones Multiplataforma** 👨‍🎓, actualmente en el segundo año. Ademas soy **técnico de sistemas microinformáticos y redes**👨‍💻.
 
-Cuando mi vida me lo permite disfruto de salir con mi cámara y hacer fotos 📷, ~~aunque no son muy buenas~~🤡, me gusta ver películas raras algunas veces antiguas y otras cutres 🎥 ~~o todas ellas a la vez~~, también soy un friki ~~/ informático~~ de manual videojuegos,anime,manga,cómics 📺, disfruto de la lectura 📚, y salir con amigos a pasarlo bien por su puesto 🍻. Disfruto mucho haciendo siempre cosas nuevas y saliendo de mi zona de confort para expandir horizontes.
+<!-- Cuando mi vida me lo permite disfruto de salir con mi cámara y hacer fotos 📷, ~~aunque no son muy buenas~~🤡, me gusta ver películas raras algunas veces antiguas y otras cutres 🎥 ~~o todas ellas a la vez~~, también soy un friki ~~/ informático~~ de manual videojuegos,anime,manga,cómics 📺, disfruto de la lectura 📚, y salir con amigos a pasarlo bien por su puesto 🍻. Disfruto mucho haciendo siempre cosas nuevas y saliendo de mi zona de confort para expandir horizontes. -->
 
 Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras 😉. Ahora esta un poco vacío pero estoy en ello 🛠 👨‍🔧.
 
-<div align="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"></div>
+<!-- <div align="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"></div> -->
 
 <h2 align="center"> 📫 Contacto </h2>
 
@@ -49,7 +49,7 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 </div>
 <p>&nbsp</p>
 
-<div align="center"><img src="img/781781781781781781781781781781.gif" width="20%" align="center"></div>
+<!-- <div align="center"><img src="img/781781781781781781781781781781.gif" width="20%" align="center"></div> -->
 
 <p>&nbsp</p>
 
