@@ -22,7 +22,7 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 
 <h2 align="center"> 📫 Contacto </h2>
 
-<p align="center"> Si quieres que hablemos un rato podemos, aqui tienes mis redes: </p>
+<p align="center"> Me puedes encontrar en: </p>
 
 <div align="center"><a href="https://github.com/sergiosimonf"><img src="img/git.jpeg" width="10%" aling="center"></a>
 <a href="https://www.linkedin.com/in/sergio-sim%C3%B3n-fern%C3%A1ndez-880605251/"><img src="img/in.png" width="10%" aling="center"></a></div>
