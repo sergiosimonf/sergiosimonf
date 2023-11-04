@@ -1,10 +1,10 @@
 # 👋 Hola, Soy Sergio Simón Fernández 📢
-
+<!-- 
 <div align="center"><img src="img/fan-1.gif" width="30%" align="center"></div>
 
 <div align="center"><img src="img/welcome-fire.gif" alt="" align="center"></div>
 
-<div align="center"><img src="img/28262826282628262826282628262826282628262826.gif" width="20%" aling="center"></div>
+<div align="center"><img src="img/28262826282628262826282628262826282628262826.gif" width="20%" aling="center"></div> -->
 
 <p></p>
 
@@ -18,6 +18,9 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 
 <!-- <div align="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"></div> -->
 
+<p>&nbsp</p>
+<p>&nbsp</p>
+
 <h2 align="center"> 📫 Contacto </h2>
 
 <p align="center"> Si quieres que hablemos un rato podemos, aqui tienes mis redes: </p>
@@ -26,8 +29,8 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 <a href="https://www.linkedin.com/in/sergio-sim%C3%B3n-fern%C3%A1ndez-880605251/"><img src="img/in.png" width="10%" aling="center"></a></div>
 
 <p>&nbsp</p>
-
-<div align="center"><img src="img/smile.gif" width="10%" align="center"></div>
+<!-- 
+<div align="center"><img src="img/smile.gif" width="10%" align="center"></div> -->
 
 <h2 align="center"> 🛠 Tecnologías </h2>
 
