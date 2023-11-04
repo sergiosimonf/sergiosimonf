@@ -6,7 +6,7 @@
 
 <div align="center"><img src="img/28262826282628262826282628262826282628262826.gif" width="20%" aling="center"></div> -->
 
-<p></p>
+<p>&nbsp</p>
 
 <img src="img/octogato1.png" width="20%" align="right">
 
@@ -18,7 +18,6 @@ Aquí encontraras mi repositorio personal echa un ojo y pilla lo que quieras �
 
 <!-- <div align="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"><img src="img/pika.gif" width="10%" aling="center"></div> -->
 
-<p>&nbsp</p>
 <p>&nbsp</p>
 
 <h2 align="center"> 📫 Contacto </h2>
